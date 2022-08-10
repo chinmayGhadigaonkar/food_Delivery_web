@@ -1,0 +1,119 @@
+.home{
+    display: block;
+}
+
+
+
+
+.logo img{
+    display: block;
+    margin: auto;
+    /* height: 200px; */
+    /* margin-top: 25px; */
+    
+}
+.logo{
+    height: 98px;
+}
+.navigation{
+    display: inline-block;
+    /* height: 274px; */
+
+
+}
+.navbar{
+ 
+/* position: relative; */
+width: 100%;
+margin:0px  auto;
+/* height: 200px; */
+}
+.navbar ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.boxes{
+    border: 2px solid red;
+    /* padding :5px;
+    margin: 12px 15px; */
+
+}
+
+ul a{
+    /* margin-left: 2px; */
+    font-size: 1em;
+    
+}
+/* middle */
+H1{
+    align-items: center;
+    font-size: 1.5rem;
+}
+.middle p{
+    font-size: 1em;
+}
+.middle{
+    margin-top: 5px;
+}
+
+/* Services */
+.home1 h2{
+    font-size: 2em;
+}
+.container{
+    display: flex;
+flex-direction: column;
+height: 1000px;
+
+ /* border: 2px solid; */
+  
+    
+ }
+ .para{
+    margin-top: 100px;
+ }
+ .boxes img{
+    margin: 0px auto;    
+    width: 100px;
+    height: 100px;
+}
+/* contact form */
+.label{
+    font-size: 2em;
+}
+
+input[type="text"]{
+     height: 25px; 
+    width: 300px;
+}
+
+textarea{
+    /* height: 171px; */
+    width: 300px;
+}
+
+ /* clients section */
+ .clients{
+   width: 100%;
+    
+}
+.clients img{
+    width: 100px;
+    height: 100px;
+    
+}
+/* footer */
+.center{
+ 
+    height: 20px ;
+    text-align: center;
+    color: white;
+    background-color: rgb(24, 22, 22);
+}
+.container p{
+    font-size: .8em;
+}
